@@ -14,11 +14,15 @@
   "description": "server deployed on Render.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daftpunkapi/multiplayer-sdk-server.git"
+    "url": "git+https://github.com/daftpunkapi/multiplayer-sdk-server.git"
   },
   "keywords": [
     "LiveCursors",
     "Multiplayer",
     "RTC"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/daftpunkapi/multiplayer-sdk-server/issues"
+  },
+  "homepage": "https://github.com/daftpunkapi/multiplayer-sdk-server#readme"
 }
