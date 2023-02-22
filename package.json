@@ -3,7 +3,7 @@
     "socket.io-client": "^4.6.0"
   },
   "name": "@dpapi/server",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "main": "serverConnect.js",
   "devDependencies": {},
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "author": "thomas & guy",
   "license": "ISC",
-  "description": "server deployed on Render.com",
+  "description": "server connection",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daftpunkapi/multiplayer-sdk-server.git"
